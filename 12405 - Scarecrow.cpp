@@ -1,3 +1,5 @@
+//Using greedy. Time-0.000s
+
 #include <bits/stdc++.h>
 
 using namespace std;
